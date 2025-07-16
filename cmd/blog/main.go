@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/limyel/mywheels/internal/blog/handler"
 	"log"
-	"myblog/internal/handler"
 	"net/http"
 )
 
